@@ -1,0 +1,6 @@
+name: screenshots-cquinn
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: A custom URL for my shitposting screenshots
